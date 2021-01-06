@@ -1,0 +1,44 @@
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\bin\Debug\flower.mdf
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\bin\Debug\flower_log.ldf
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\bin\Debug\FlowerShopManagementSystemCSharp.exe.config
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\bin\Debug\FlowerShopManagementSystemCSharp.exe
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\bin\Debug\FlowerShopManagementSystemCSharp.pdb
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\518H0169_518H0031.csprojAssemblyReference.cache
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Customer.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Flower.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Form1.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.HomeAdmin.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.HomeSalesman.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Properties.Resources.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Purchase.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.Salesman.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.SearchFlowers.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.ViewCustomer.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.ViewPurchasedFlowers.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.ViewSalesman.resources
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\518H0169_518H0031.csproj.GenerateResource.cache
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\518H0169_518H0031.csproj.CoreCompileInputs.cache
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.exe
+D:\SubjectSecondYear\công nghệ phần mềm\518H0133\518H0133\518H0133\518H0133\obj\Debug\FlowerShopManagementSystemCSharp.pdb
+D:\congnghephanmem\demo\bin\Debug\flower.mdf
+D:\congnghephanmem\demo\bin\Debug\flower_log.ldf
+D:\congnghephanmem\demo\bin\Debug\FlowerShopManagementSystemCSharp.exe.config
+D:\congnghephanmem\demo\bin\Debug\FlowerShopManagementSystemCSharp.exe
+D:\congnghephanmem\demo\bin\Debug\FlowerShopManagementSystemCSharp.pdb
+D:\congnghephanmem\demo\obj\Debug\518H0169_518H0031.csprojAssemblyReference.cache
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Customer.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Flower.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Form1.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.HomeAdmin.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.HomeSalesman.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Properties.Resources.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Purchase.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.Salesman.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.SearchFlowers.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.ViewCustomer.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.ViewPurchasedFlowers.resources
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.ViewSalesman.resources
+D:\congnghephanmem\demo\obj\Debug\518H0133.csproj.GenerateResource.cache
+D:\congnghephanmem\demo\obj\Debug\\518H0133.csproj.CoreCompileInputs.cache
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.exe
+D:\congnghephanmem\demo\obj\Debug\FlowerShopManagementSystemCSharp.pdb
